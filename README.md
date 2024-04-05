@@ -11,17 +11,11 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![image](https://user-images.githubusercontent.com/103921593/203238035-1c8109bc-cbf2-4c77-baea-c5b682a752ef.png)
 
 ## Procedure :
-
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
-
-
-
 ## Experiment:
-
 ![image](https://github.com/HariharanJayavel/Muttiple-capacity-with-infinite-capacity/assets/144870546/2d36a859-3527-40bd-a172-e7134f2ff867)
 ![image](https://github.com/HariharanJayavel/Muttiple-capacity-with-infinite-capacity/assets/144870546/e10a5b5c-da40-4d4b-9c70-aa948f7976d3)
-
 
 ## Program:
 ```
@@ -62,10 +56,7 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
-
 ![image](https://github.com/HariharanJayavel/Muttiple-capacity-with-infinite-capacity/assets/144870546/50a764ed-4ca6-490f-a20c-337869cc8d2f)
-
 
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
-
