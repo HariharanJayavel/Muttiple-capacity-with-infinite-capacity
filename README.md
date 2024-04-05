@@ -19,14 +19,15 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 
-![image](https://github.com/SarweshvaranA/Muttiple-capacity-with-infinite-capacity/assets/146930981/48433444-8cdd-4b1c-8656-6fd1082c5570)
-![image](https://github.com/SarweshvaranA/Muttiple-capacity-with-infinite-capacity/assets/146930981/30d4ae25-5844-4666-8818-41f8793e810a)
+![image](https://github.com/HariharanJayavel/Muttiple-capacity-with-infinite-capacity/assets/144870546/2d36a859-3527-40bd-a172-e7134f2ff867)
+![image](https://github.com/HariharanJayavel/Muttiple-capacity-with-infinite-capacity/assets/144870546/e10a5b5c-da40-4d4b-9c70-aa948f7976d3)
 
 
 ## Program:
 ```
 Developed By:HARIHARAN J
 REGISTER NO: 212223240047
+
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -62,7 +63,7 @@ print("--------------------------------------------------------------")
 
 ## Output :
 
-![image](https://github.com/SarweshvaranA/Muttiple-capacity-with-infinite-capacity/assets/146930981/b7fadbdf-f064-4e92-9b85-53fe716dcdbb)
+![image](https://github.com/HariharanJayavel/Muttiple-capacity-with-infinite-capacity/assets/144870546/50a764ed-4ca6-490f-a20c-337869cc8d2f)
 
 
 ## Result : 
